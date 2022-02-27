@@ -1,2 +1,2 @@
-# foo
-API Restful de Vendas com Node.js, Typescript, TypeORM, Docker, Postgres e Redis.
+# odbyt
+API Restful de vendas com nodejs, typescript, typeORM, docker, postgres e redis.
